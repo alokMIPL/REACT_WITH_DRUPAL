@@ -1,10 +1,3 @@
-For CDN in REACT, we have to use CDN Links
-
-<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
-<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
-
-then in
-
 # 📘 React CDN Examples (Example 1–8)
 
 This document explains eight basic React examples created using **React 18 CDN** and **ReactDOM** without build tools.
